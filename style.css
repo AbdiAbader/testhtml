@@ -11,13 +11,7 @@ body {
 h1{
     margin: 0;
 }
-.main-container {
-   /* background: linear-gradient(to top, #FFD6AF, #E0E8FF);
-*/
-    
-    width: 100%;
-  
-}
+
 
 /* Header Styling */
 .header {
